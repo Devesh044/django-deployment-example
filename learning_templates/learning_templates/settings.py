@@ -25,7 +25,7 @@ SECRET_KEY = '$r4!d@r%-*8hk(fivruvr)b1+j*4&xl^g%!d31xv00)*&ri-(^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://devesh044.pythonanywhere.com/']
 
 
 # Application definition
